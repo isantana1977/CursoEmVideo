@@ -68,7 +68,7 @@ header#cabecalho h2{
 	margin-top: 0px;
 }
 
-/*Formataão de imagens com legendas */
+/*Formatação de imagens com legendas */
 figure.foto-legenda {
 	position: relative; /* coloca a figura em uma posição relativa */
 	border: 8px solid white; /* largura - tipo - cor */
@@ -141,7 +141,7 @@ nav#menu a:hover {
 
 section#corpo {
 	display: block;
-	width: 900px;
+	width: 830px;
 	float: left;
 	border-right: 1px solid #606060;
 	padding-right: 15px;
